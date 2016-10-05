@@ -6,8 +6,10 @@ In the space below, make a three column table of the current courses you are tak
 
 See `complete` branch for answers.
 
+#Table
+
 |Course Number | Course Title | Instructor |
 |--------------|--------------|------------|
-|**COURSE1**   |_GEN STUDIES_ | DYANNA     |
-|**COURSE2**   |_MATH 125   _ | NICOLE     |
-|**COURSE3**   |_TECH FOUND _ | MIKE       |
+|**COURSE 1**   |_GEN STUDIES_ | DYANNA     |
+|**COURSE 2**   |_MATH 125_    | NICOLE     |
+|**COURSE 3**   |_TECH FOUND_  | MIKE       |
