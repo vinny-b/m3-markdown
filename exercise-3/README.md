@@ -12,8 +12,12 @@ See `complete` branch for answers.
 
 # cd
 
--The 'cd' command is a very useful command and helps us navigate between folders. 
+```
+cd Users/Desktop/m3-Markdown/exercise-3
+```
 
--You can use 'cd ..' to go up the directory tree, you can also use 'cd (name of file/folder)'
+-The `cd` command is a very useful command and helps us navigate between folders. 
+
+-You can use `cd ..` to go up the directory tree, you can also use `cd (name of file/folder)`
 
 -The command 'cd' can be used to go to a particular file throught the whole tree.
